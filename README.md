@@ -38,7 +38,7 @@ notify.php   异步回调通知
 # 若对您有帮助，可以赞助并支持下作者哦，谢谢！
 
 <p align="center">
-    <img src="https://qq52o.me/wp-content/themes/c7v5/img/zanzhu.jpg" width="500px">
+    <img src="https://qq52o.me/wp-content/themes/c7v5/img/zanzhu.jpg" width="500px">  
     <span style="color: #ff0000;">左边是支付宝赞助 右边是微信赞助</span>
     <p align="center">联系邮箱：52o@qq52o.cn</p>
 </p>
