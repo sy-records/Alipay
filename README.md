@@ -16,7 +16,7 @@ PHP5.0以上，且需要开启CURL服务、openSSL服务。
 
 # 文件对应说明
 
-pc   PC网站支付  
+pc         PC网站支付  
 
 wap   手机wap端支付  
 
