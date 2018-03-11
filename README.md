@@ -1,10 +1,10 @@
 # Alipay
 集成支付宝多种支付方式，包括电脑网站支付，手机网站支付，扫码支付，单笔转账到支付宝账户等，希望可以给各位想接入支付宝支付的带来些许帮助和借鉴意义。  
 
-作者:[沈唁](https://qq52o.me)  
-作者博客:[https://qq52o.me](https://qq52o.me)  
-开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
-GitHub项目地址:[https://github.com/sy-records/Alipay](https://github.com/sy-records/Alipay)  
+作者：[沈唁](https://qq52o.me)  
+作者博客：[https://qq52o.me](https://qq52o.me)  
+开源协议：[GPL v3](https://opensource.org/licenses/GPL-3.0)  
+GitHub项目地址：[https://github.com/sy-records/Alipay](https://github.com/sy-records/Alipay)  
 版权归作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
 
@@ -39,5 +39,6 @@ notify.php   异步回调通知
 
 <p align="center">
     <img src="https://qq52o.me/wp-content/themes/c7v5/img/zanzhu.jpg" width="500px">
+    <span style="color: #ff0000;">左边是支付宝赞助 右边是微信赞助</span>
     <p align="center">联系邮箱：52o@qq52o.cn</p>
 </p>
