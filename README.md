@@ -1,5 +1,8 @@
 # Alipay
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/sy-records/Alipay" data-size="large" data-show-count="true" aria-label="Star sy-records/Alipay on GitHub">Star</a>
+
 集成支付宝多种支付方式，包括电脑网站支付，手机网站支付，扫码支付，单笔转账到支付宝账户等，希望可以给各位想接入支付宝支付的带来些许帮助和借鉴意义。  
 
 作者：[沈唁](https://qq52o.me)  
