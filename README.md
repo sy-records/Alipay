@@ -9,7 +9,7 @@ GitHub项目地址：[https://github.com/sy-records/Alipay](https://github.com/s
 版权归作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
 
-一个PHP文件搞定微信支付系列请移步：https://github.com/sy-records/WeixinPay  
+PHP文件搞定微信支付系列请移步：https://github.com/sy-records/WeixinPay  
 
 # 环境依赖
 
